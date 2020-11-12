@@ -19,14 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f93f846-ea21-49af-b05b-173739bcab87" name="Default Changelist" comment="" />
+    <list default="true" id="9f93f846-ea21-49af-b05b-173739bcab87" name="Default Changelist" comment="hw 12">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jnYKpY26nq0oiMs57yHgImBxp6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -37,6 +39,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -47,8 +50,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604441261927</updated>
-      <workItem from="1604441262984" duration="2582000" />
+      <workItem from="1604441262984" duration="4576000" />
+      <workItem from="1605115869688" duration="270000" />
     </task>
+    <task id="LOCAL-00001" summary="hw 12">
+      <created>1604444086648</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604444086648</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hw 12">
+      <created>1604445179913</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604445179913</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -64,5 +83,26 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hw 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw 12" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1604444977830">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="269" key="FileChooserDialogImpl/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1604444143562" />
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1604444977830" />
+    <state x="838" y="418" key="Github.ShareDialog" timestamp="1604445241384">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1082" y="426" key="Github.ShareDialog/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1604444410088" />
+    <state x="838" y="418" key="Github.ShareDialog/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1604445241384" />
+    <state x="-1162" y="233" key="Github.UntrackedFilesDialog" timestamp="1604444172169">
+      <screen x="-1920" y="8" width="1920" height="1040" />
+    </state>
+    <state x="-1162" y="233" key="Github.UntrackedFilesDialog/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1604444172169" />
   </component>
 </project>
