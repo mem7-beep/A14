@@ -19,10 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7ea6e39-4291-43b6-9123-901d67fff68b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../A12/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../A12/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../A12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../A12/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../A12/speakers/sampson.html" beforeDir="false" afterPath="$PROJECT_DIR$/../A12/speakers/sampson.html" afterDir="false" />
+    <list default="true" id="a7ea6e39-4291-43b6-9123-901d67fff68b" name="Default Changelist" comment="hw 13">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +28,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1k9cEuUgbwaTiOQNAqPRUEsLxg5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -41,6 +39,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -51,8 +50,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605116139303</updated>
-      <workItem from="1605116140341" duration="3683000" />
+      <workItem from="1605116140341" duration="5077000" />
+      <workItem from="1605757050134" duration="29000" />
     </task>
+    <task id="LOCAL-00001" summary="hw 13">
+      <created>1605147450930</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605147450930</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,5 +76,24 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hw 13" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw 13" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2660" y="261" key="FileChooserDialogImpl" timestamp="1605757076117">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="261" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1605757076117" />
+    <state x="2758" y="418" key="Github.ShareDialog" timestamp="1605147647083">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2758" y="418" key="Github.ShareDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1605147647083" />
+    <state x="2088" y="211" key="Github.UntrackedFilesDialog" timestamp="1605147652626">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2088" y="211" key="Github.UntrackedFilesDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1605147652626" />
   </component>
 </project>
